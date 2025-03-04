@@ -22,15 +22,27 @@ Apasionado por el desarrollo de software, la optimización de interfaces y la cr
 
 ### **🔑 Cerrajería-Herrería Puerto Gades**  
 📌 *One-page profesional para empresa de cerrajería en Angular*  
-🔗 [Ver proyecto]([#](https://github.com/Nicovp24/CerrajeriaPuertoGades))  
+🔗 [Ver proyecto](https://github.com/Nicovp24/CerrajeriaPuertoGades)  
 
-### **🛍️ Tienda Online - Clon Idealista**  
-📌 *Clon de la página web idealista*  
-🔗 [Ver proyecto]([#](https://github.com/enriqueruiz22/clon-idealista))  
+### **🏡 Clon Idealista - Plataforma Inmobiliaria**  
+📌 *Clon funcional de **Idealista**, con búsqueda avanzada, gestión de propiedades y diseño responsivo*  
+🔹 **Tecnologías:** Angular, TypeScript, Bootstrap, SCSS  
+🔹 **Características:**  
+  - 📍 Filtros dinámicos para búsqueda de propiedades  
+  - 🏠 Vista detallada de cada propiedad  
+  - 📊 Integración con API para obtener datos en tiempo real  
+  - 📱 Diseño adaptable a móviles y escritorio  
+🔗 [Ver proyecto](https://github.com/enriqueruiz22/clon-idealista)  
 
 ### **🍔 Bite & Grill**  
 📌 *Plataforma de pedidos online para una hamburguesería local, con integración en Uber Eats*  
-🔗 [Ver proyecto]([#](https://github.com/celianavarrogarrido/BiteAndGrillDefinitivo))  
+🔹 **Tecnologías:** Angular, PHP, MySQL, Bootstrap  
+🔹 **Características:**  
+  - 📦 Menú interactivo con imágenes y descripciones  
+  - 📲 Integración con Uber Eats para realizar pedidos  
+  - 🎨 Diseño atractivo y optimizado para SEO  
+🔗 [Ver proyecto](https://github.com/celianavarrogarrido/BiteAndGrillDefinitivo)  
+
 
 ---
 
