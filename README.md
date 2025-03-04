@@ -22,15 +22,15 @@ Apasionado por el desarrollo de software, la optimización de interfaces y la cr
 
 ### **🔑 Cerrajería-Herrería Puerto Gades**  
 📌 *One-page profesional para empresa de cerrajería en Angular*  
-🔗 [Ver proyecto](#)  
+🔗 [Ver proyecto]([#](https://github.com/Nicovp24/CerrajeriaPuertoGades))  
 
-### **🛍️ Tienda Online - Cerrajería Puerto Gades**  
-📌 *E-commerce para venta de productos de cerrajería, optimizado para SEO y rendimiento*  
-🔗 [Ver proyecto](#)  
+### **🛍️ Tienda Online - Clon Idealista**  
+📌 *Clon de la página web idealista*  
+🔗 [Ver proyecto]([#](https://github.com/enriqueruiz22/clon-idealista))  
 
 ### **🍔 Bite & Grill**  
 📌 *Plataforma de pedidos online para una hamburguesería local, con integración en Uber Eats*  
-🔗 [Ver proyecto](#)  
+🔗 [Ver proyecto]([#](https://github.com/celianavarrogarrido/BiteAndGrillDefinitivo))  
 
 ---
 
@@ -44,7 +44,7 @@ Apasionado por el desarrollo de software, la optimización de interfaces y la cr
 ## 📬 Conéctate conmigo  
 
 📧 **Email:** _[nicolasvicent24@gmail.com](mailto:nicolasvicent24@gmail.com)_  
-🔗 **LinkedIn:** _[[Nicolas Vicenti Puerto](https://www.linkedin.com/in/nicol%C3%A1s-vicenti-puerto/)](#)_    
+🔗 **LinkedIn:** _[[Nicolas Vicenti Puerto](https://www.linkedin.com/in/nicol%C3%A1s-vicenti-puerto/)   
 🌎 **Portafolio:** _[Tu Sitio Web](#)_  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nicovp24&color=blue&style=flat)  
