@@ -43,9 +43,8 @@ Apasionado por el desarrollo de software, la optimización de interfaces y la cr
 
 ## 📬 Conéctate conmigo  
 
-📧 **Email:** _[TuEmail@ejemplo.com](mailto:TuEmail@ejemplo.com)_  
-🔗 **LinkedIn:** _[Tu LinkedIn](#)_  
-🎥 **TikTok:** _[Tu TikTok](#)_  
+📧 **Email:** _[nicolasvicent24@gmail.com](mailto:nicolasvicent24@gmail.com)_  
+🔗 **LinkedIn:** _[[Nicolas Vicenti Puerto](https://www.linkedin.com/in/nicol%C3%A1s-vicenti-puerto/)](#)_    
 🌎 **Portafolio:** _[Tu Sitio Web](#)_  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nicovp24&color=blue&style=flat)  
