@@ -171,6 +171,10 @@ I build things that **save time and scale**. By day, I design automation workflo
 🌍 Check my agency at **[websy.live](https://websy.live/)**
  
 </div>
+
+<p align="center">
+  <img src="geng.png" alt="Gengar" width="180px">
+</p>
  
 <div align="center">
  
