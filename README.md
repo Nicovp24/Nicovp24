@@ -8,7 +8,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-vicenti-puerto/)
 [![Portfolio](https://img.shields.io/badge/Websy.live-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://websy.live/)
-[![Portfolio](https://img.shields.io/badge/Websy.live-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=brown)](https://first-cup.es)
+[![Portfolio](https://img.shields.io/badge/First-Cup-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=brown)](https://first-cup.es)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasvicent24@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Nicovp24&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Nicovp24)
  
