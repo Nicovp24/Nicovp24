@@ -1,6 +1,8 @@
 <div align="center">
 
-<h1>NICOLÁS VICENTI PUERTO</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+multi-agent+systems+with+LangGraph+%26+Claude;RPA+%2B+LLMs+in+production+at+scale;AI+decides%3F+No.+Data+decides%2C+AI+explains.;Automating+40%2B+ticketing+bots+across+Europe)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +16,7 @@
 
 <br/>
 
-> ☕ Check out my latest project →&nbsp;&nbsp;[![First Cup](https://img.shields.io/badge/First_Cup_·_Daily_Dev_Digest-%23000000.svg?style=for-the-badge&logo=rss&logoColor=brown)](https://first-cup.es)
+> ☕ Check out my latest project →&nbsp;&nbsp;[![First Cup](https://img.shields.io/badge/First_Cup_·_AI_Multi--Agent_Digest-%23000000.svg?style=for-the-badge&logo=rss&logoColor=brown)](https://first-cup.es)
 
 </div>
 
@@ -25,56 +27,38 @@
 ```javascript
 const nicolas = {
   location:     "Seville, Spain 🇪🇸",
-  currentRole:  "RPA Developer — automating business workflows with UiPath & Python",
-  building:     "SaaS products and web platforms with real-world impact",
-  focus:        ["Process Automation", "Full Stack Web", "SaaS Business Models"],
-  openTo:       ["Freelance projects", "Collaborations", "Exciting ideas"],
-  funFact:      "If a task can be automated, it will be automated."
+  currentRole:  "Automation & AI Systems Developer — designing multi-agent pipelines with LangGraph & Claude API",
+  building:     "AI-driven automation systems and SaaS products with real-world impact",
+  focus:        ["AI Agents & LLM Systems", "Process Automation at Scale", "Full Stack"],
+  openTo:       ["AI Engineer opportunities", "Freelance projects", "Interesting problems"],
+  funFact:      "If a task can be automated, it will be automated — and now the agent decides how."
 };
 ```
 
-I build things that **save time and scale**. By day, I design automation workflows that eliminate manual work at scale. By night, I explore SaaS ideas, build web products, and look for the next problem worth solving.
+I design and ship **multi-agent systems that run in production**, not just prototypes. At my day job I've architected an AI-driven QA pipeline that autonomously detects, tests, and reports on 40+ automated bots across production servers — with a strict rule baked into the design: **the LLM narrates, the data decides.** By night, I build SaaS products and explore where automation and AI agents actually save people time.
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**RPA & Automation**
-
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## 🧠 Featured Systems
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🔗 Multi-Agent QA & Deployment Pipeline
+**Production system — Turify**
+
+> Architected a multi-agent pipeline (LangGraph + Claude API + Supabase) that automates the full QA lifecycle: detects ready-for-QA tickets, executes test runs via SSH, and reports results to Discord — fully autonomous, zero manual QA.
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat-square&logo=chainlink&logoColor=white)
+![Claude API](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+✅ Autonomous ticket detection & test execution<br/>
+✅ Real-time Slack reporting<br/>
+✅ Design principle: **data decides, AI explains**
+
+</td>
 <td width="50%" valign="top">
 
 ### ☕ First Cup
@@ -94,6 +78,8 @@ I build things that **save time and scale**. By day, I design automation workflo
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nicovp24/first-cup)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎮 MANTIS
@@ -112,8 +98,6 @@ I build things that **save time and scale**. By day, I design automation workflo
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nicovp24/mantis)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 Websy Agency
@@ -129,23 +113,61 @@ I build things that **save time and scale**. By day, I design automation workflo
 [![Visit](https://img.shields.io/badge/Visit_Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://websy.live/)
 
 </td>
-<td width="50%" valign="top">
-
-### 🔑 Cerrajería Puerto Gades
-**Professional Business Website**
-
-> One-page professional site built for a real local locksmith business. Clean, fast, conversion-focused.
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-✅ Real client project<br/>
-✅ Production deployed
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nicovp24/CerrajeriaPuertoGades)
-
-</td>
 </tr>
 </table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI & Agent Systems**
+
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**RPA & Automation**
+
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+*Currently in progress — check back soon*
+
+![AWS AIF-C01](https://img.shields.io/badge/AWS_AI_Practitioner-in_progress-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Claude Dev Cert](https://img.shields.io/badge/Claude_Developer_Foundations-in_progress-orange?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
 
 ---
 
@@ -164,13 +186,19 @@ I build things that **save time and scale**. By day, I design automation workflo
 
 </div>
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Nicovp24/Nicovp24/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-💼 Open to **freelance projects**, **collaborations**, and **conversations about interesting ideas**
+💼 Open to **AI Engineer opportunities**, **freelance projects**, and **conversations about interesting ideas**
 
 📬 Reach me at **nicolasvicent24@gmail.com** or via **[LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-vicenti-puerto/)**
 
