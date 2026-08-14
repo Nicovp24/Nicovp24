@@ -46,7 +46,7 @@ I design and ship **multi-agent systems that run in production**, not just proto
 <td width="50%" valign="top">
 
 ### 🔗 Multi-Agent QA & Deployment Pipeline
-**Production system — Turify**
+**Production system**
 
 > Architected a multi-agent pipeline (LangGraph + Claude API + Supabase) that automates the full QA lifecycle: detects ready-for-QA tickets, executes test runs via SSH, and reports results to Discord — fully autonomous, zero manual QA.
 
