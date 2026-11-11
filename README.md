@@ -197,6 +197,15 @@ I design and ship **multi-agent systems that run in production**, not just proto
 ## 🤖 Languages I build with Claude
 
 <!--START_SECTION:langstats-->
+
+```txt
+TSX                             ★★★★★★★★★★★★★☆☆☆☆☆☆☆☆☆☆☆☆   50.94 %
+HTML                            ★★★★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆   30.36 %
+SQL                             ★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆   13.64 %
+Python                          ★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆   04.27 %
+TypeScript                      ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆   00.80 %
+```
+
 <!--END_SECTION:langstats-->
 
 <sub>Generated with [langstats](https://github.com/codecruz/langstats)</sub>
