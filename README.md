@@ -199,8 +199,8 @@ I design and ship **multi-agent systems that run in production**, not just proto
 <!--START_SECTION:langstats-->
 
 ```txt
-Python                          ★★★★★★★★★★★★★★★★★★★★★★★★☆   97.30 %
-HTML                            ★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆   02.70 %
+Python                          ★★★★★★★★★★★★★★★★★★★★★★★★☆   96.86 %
+HTML                            ★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆   03.14 %
 ```
 
 <!--END_SECTION:langstats-->
